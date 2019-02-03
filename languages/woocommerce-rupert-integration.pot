@@ -1,0 +1,124 @@
+# Copyright (C) 2019 GetRupert
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Rupert Integration 1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"https://github.com/getrupert/woocommerce-integration/issues\n"
+"POT-Creation-Date: 2019-02-03 12:50:37+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/class-wc-rupert-info-banner.php:57
+msgid "Rupert &amp; WooCommerce"
+msgstr ""
+
+#: includes/class-wc-rupert-info-banner.php:58
+msgid ""
+"<a href=\"%s\">Connect WooCommerce to Rupert</a> to finish setting up this "
+"integration."
+msgstr ""
+
+#: includes/class-wc-rupert-info-banner.php:62
+msgid "Dismiss this notice."
+msgstr ""
+
+#: includes/class-wc-rupert-info-banner.php:62
+msgid "(Dismiss)"
+msgstr ""
+
+#: includes/class-wc-rupert.php:23
+msgid "Rupert"
+msgstr ""
+
+#: includes/class-wc-rupert.php:24
+msgid ""
+"Rupert is service for displaying notifications to your visitors about "
+"latest purchases on your site"
+msgstr ""
+
+#: includes/class-wc-rupert.php:77
+msgid "Rupert API ID"
+msgstr ""
+
+#: includes/class-wc-rupert.php:78
+msgid "Log into your Rupert account to find your ID."
+msgstr ""
+
+#: includes/class-wc-rupert.php:84
+msgid "Tracking Options"
+msgstr ""
+
+#: includes/class-wc-rupert.php:85
+msgid "Enable Standard Tracking"
+msgstr ""
+
+#: includes/class-wc-rupert.php:86
+msgid "This tracks user visits and allows notifications to be displayed"
+msgstr ""
+
+#: includes/class-wc-rupert.php:92
+msgid "Collect visitors' names"
+msgstr ""
+
+#: includes/class-wc-rupert.php:93
+msgid ""
+"This will enable visitor names in notifications. Visitor names will be "
+"collected by Rupert after successful purchase. Only first name is collected."
+msgstr ""
+
+#: includes/class-wc-rupert.php:99
+msgid "Collect visitors' locations"
+msgstr ""
+
+#: includes/class-wc-rupert.php:100
+msgid ""
+"This will enable visitor locations in notifications. Visitor locations will "
+"be collected by Rupert after successful purchase. Only city and country is "
+"collected."
+msgstr ""
+
+#: includes/class-wc-rupert.php:112
+msgid "To see notifications you have to create a campaign in Rupert."
+msgstr ""
+
+#: woocommerce-rupert-integration.php:76
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-rupert-integration.php:77
+msgid "Support"
+msgstr ""
+
+#: woocommerce-rupert-integration.php:115
+msgid "WooCommerce Rupert depends on the last version of %s to work!"
+msgstr ""
+
+#: woocommerce-rupert-integration.php:115
+msgid "WooCommerce"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Rupert Integration"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.getrupert.com/integration/woocommerce/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Allows Rupert tracking code to be inserted into WooCommerce store pages."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "GetRupert"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.getrupert.com"
+msgstr ""
